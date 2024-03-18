@@ -1,6 +1,6 @@
 ## ExpNo 4 : Implement A* search algorithm for a Graph
 #### Name: Sivabalan S
-#### Register Number/Staff Id: 212222240100
+#### Register Number: 212222240100
 ## Aim:
 To ImplementA * Search algorithm for a Graph using Python 3.
 ## Algorithm:
